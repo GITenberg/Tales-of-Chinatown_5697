@@ -1,0 +1,31 @@
+_repo: Tales-of-Chinatown_5697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: ''
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese -- Foreign countries -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The daughter of Huang Chow -- Kerry's kid -- The pigtail of Hi Wing
+  Ho -- The house of golden joss -- The man with the shaven skull -- The white hat
+  -- Tcheriapin -- The dance of the veils -- The hand of the Mandarin Quong -- The
+  key of the temple of heaven.
+title: Tales of Chinatown
+url: http://www.gutenberg.org/ebooks/5697
