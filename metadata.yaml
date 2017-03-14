@@ -1,5 +1,8 @@
 _repo: Tales-of-Chinatown_5697
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rohmer, Sax
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/110
     wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5697#Tales-of-Chinatown
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
